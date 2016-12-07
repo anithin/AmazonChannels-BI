@@ -1,1 +1,1 @@
-# AmazonChannelsBIAnalytics
+# AmazonChannels-BI
